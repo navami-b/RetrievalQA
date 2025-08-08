@@ -1,6 +1,6 @@
 pip install langchain openai faiss-cpu tiktoken
 
-$env:OPENAI_API_KEY="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"
+$env:OPENAI_API_KEY="sk-proj-IdKCwLMVsDsegxsZL214llnNhQVoWtubIHkSWCG4vaR4WbUlL0xOlhpTxINHZKfUZLjDFLJSJcT3BlbkFJ3dGc5DyJQ5pNY-GcofuSR-wLSPcBm9CB_doVuSIc4bGIeym6BznSmX4YxB6BEA"
 
 # retrieval_qa.py
 from langchain.document_loaders import TextLoader
